@@ -1,2 +1,2 @@
 # Python
-exersice for learning Python
+practice for learning Python
